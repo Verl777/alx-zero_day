@@ -1,1 +1,1 @@
-Learning by doing hard things
+Do hard things
